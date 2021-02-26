@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(189, 156, 233);
+  font-family: 'Roboto', sans-serif;
+}
+
+input {
+  padding: 4px;
+}
+
+select {
+  padding: 4px;
+}
+
+button {
+  background-color: rgb(109, 126, 17);
+  border-radius: 7px;
+  color: white;
+  padding: 4px;
+}
+
+button:disabled {
+  background-color: rgb(202, 228, 58);
+}
+
+.bold {
+  font-weight: 700;
+}
+
+table, th, td {
+  border: 3px solid black;
+  border-collapse: collapse;
+  width: 55%;
+}
+
+th {
+  background-color: rgb(226, 240, 147);
+  white-space: nowrap;
+}
+
+td {
+  background-color: white;
+  white-space: nowrap;
+}
