@@ -7,7 +7,7 @@
 ## About
 The project was developed during the Trybe course using React and Redux to manage the state.
 
-This application is a virtual wallet to be used on trips. On it is possible to add expenses on the currency of the country that the user is, so there is a list of all expenses and the sum of all expenses convertes to Brazilian currency.
+This application is a virtual wallet to be used on trips. On it is possible to add expenses on the currency of the country that the user is. The expense is added to a list of all expenses and the application shows the sum of all expenses converted to Brazilian Real.
 
 The project uses an API that provides the currencys and it values compared to Brazilian currency.
 
